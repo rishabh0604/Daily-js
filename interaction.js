@@ -11,7 +11,6 @@ let person = prompt("Please enter your name", "Harry Potter");
 // confirm :The function confirm shows a modal window with a question and two buttons: OK and Cancel.
 // The result is true if OK is pressed and false otherwise.
 
-
 let isStudent = confirm("Are you the Student ?");
 
 alert( isStudent ); // true if OK is pressed
