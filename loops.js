@@ -14,6 +14,10 @@
 //     console.log(i*2)
 // }
 
+// for(let i = 1; i<=10; i++){
+//     console.log(i*18);
+// }
+
 // // printing name in loop
 // for(let i=1; i<=10; i++){
 //     console.log("Rishabh")
@@ -119,3 +123,4 @@
 //   //updation
 //   i--;
 // }while(i>=0);
+
